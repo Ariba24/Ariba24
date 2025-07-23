@@ -40,9 +40,10 @@
   <a href="https://www.linkedin.com/in/aribaarzi2207" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="mailto:aribaarzi22@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aribaarzi22@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 
 </p>
 
