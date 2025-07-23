@@ -35,15 +35,15 @@
 - 🏆 **Future Goal:** Become a full-stack developer and build impactful AI-powered products.
 
 ---
-
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/aribaarzi" target="_blank">
+  <a href="https://www.linkedin.com/in/aribaarzi2207" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aribaarzi@example.com">
+  <a href="mailto:aribaarzi22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
