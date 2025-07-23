@@ -26,11 +26,13 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 🚀 Highlights & Goals  
 
-<p align="center">
-  <img src="stats.png" alt="Ariba Arzi GitHub Stats" width="80%" />
-</p>
+- 🌟 **Open Source Contributor:** Selected for **GSSoC 2025**.  
+- 💻 **Current Project:** PausePal – A productivity & wellness app with advanced features.  
+- 📚 **Learning Path:** React, backend development, and full-stack principles.  
+- 🎨 **Strength:** Designing modern UI/UX with a focus on usability.  
+- 🏆 **Future Goal:** Become a full-stack developer and build impactful AI-powered products.
 
 ---
 
