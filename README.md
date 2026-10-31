@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Ariba Arzi Banner" width="50%" />
+  <img src="banner.png" alt="Ariba Arzi Banner" width="30%" />
 </p>
 
 <!-- Typing SVG -->
